@@ -1,1 +1,1 @@
-npx degit https://github.com/jherr/wp5-starter-react.git\#main project_name
+npx degit https://github.com/srj101/react-starter.git\#main project_name
